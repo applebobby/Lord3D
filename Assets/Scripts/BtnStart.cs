@@ -17,6 +17,6 @@ public class BtnStart : MonoBehaviour
 
     void startGame()
     {
-        MsgManager.Instance.CallAct(MsgType.START_GAME, "this is log msg!");
+        MsgManager.Instance.CallAct(MsgType.START_GAME, "aa");
     }
 }
