@@ -36,10 +36,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\BtnStart.cs" />
-     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\EventSystem\MsgManager.cs" />
      <Compile Include="Assets\Scripts\EventSystem\MsgType.cs" />
+     <Compile Include="Assets\Scripts\BtnStart.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\Card.cs" />
     <Reference Include="UnityEngine">
         <HintPath>D:\2020.3.21f1c1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
